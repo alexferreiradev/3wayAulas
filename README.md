@@ -5,6 +5,9 @@ Planejamento e referências para aulas do curso de Java Web da 3Way Networks.
 * [Youtube-Playlist-curso_java](https://www.youtube.com/watch?v=CLJOkW_Bchk&list=PLc_5R8jc8TMIBvTCdYUcPXgZLz_82Cafs)
 # Links de referência
 * [Git Ignore](https://git-scm.com/docs/gitignore)
+* [Java EE 5 - JSP](https://docs.oracle.com/javaee/5/tutorial/doc/gfirp.html)
+* [Java EE 6 - JSF](https://docs.oracle.com/javaee/6/tutorial/doc/)
+* [Java EE 7 - JSF 2.2](https://docs.oracle.com/javaee/7/tutorial/index.html)
 
 # Livros
 * Coleção Use a cabeça - Java, Java Web, HTML
